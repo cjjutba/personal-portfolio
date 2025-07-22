@@ -2,43 +2,43 @@
 
 A modern, responsive portfolio website showcasing my work as a Frontend Developer. Built with React, TypeScript, and cutting-edge web technologies to deliver an exceptional user experience.
 
-## 🌐 Live Demo
+## Live Demo
 
 **[Visit Portfolio](https://cjjutba.site)**
 
-## 📸 Preview
+## Preview
 
 [![Portfolio Preview](./public/hero-banner.png)](https://cjjutba.site)
 
-## ✨ Features
+## Features
 
-### 🎨 Modern Design
+### Modern Design
 - **Dark Theme**: Sleek, professional dark interface with custom color palette
 - **Responsive Design**: Optimized for all devices (mobile, tablet, desktop)
 - **Smooth Animations**: Powered by Framer Motion for fluid interactions
 - **Interactive Elements**: Hover effects, transitions, and micro-interactions
 
-### 🚀 Performance & UX
+### Performance & UX
 - **Fast Loading**: Optimized with Vite build system and code splitting
 - **Progressive Enhancement**: Works without JavaScript, enhanced with it
 - **Accessibility**: WCAG compliant with proper semantic HTML and ARIA labels
 - **SEO Optimized**: Meta tags, structured data, and semantic markup
 
-### 🛠️ Advanced Features
+### Advanced Features
 - **Command Palette**: Quick navigation with Cmd/Ctrl + K shortcut
 - **Typewriter Effect**: Dynamic text animation in hero section
 - **Scroll Indicators**: Visual progress tracking
 - **Lazy Loading**: Optimized image loading for better performance
 - **Email Integration**: Contact form powered by EmailJS
 
-### 📱 Pages & Sections
+### Pages & Sections
 - **Home**: Hero section, featured projects, tech stack, personal story
 - **About**: Detailed background, experience, and professional journey
 - **Skills**: Technical expertise with interactive visualizations
 - **Projects**: Comprehensive project showcase with live demos
 - **Contact**: Multiple ways to connect with integrated contact form
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks and functional components
@@ -65,7 +65,7 @@ A modern, responsive portfolio website showcasing my work as a Frontend Develope
 - **PostCSS** - CSS processing and optimization
 - **Autoprefixer** - Automatic vendor prefix handling
 
-## 🏗️ Architecture & Implementation
+## Architecture & Implementation
 
 This portfolio is built with modern web technologies and follows industry best practices for performance, accessibility, and user experience. The application features a component-based architecture with TypeScript for type safety and Tailwind CSS for consistent styling.
 
@@ -76,7 +76,7 @@ This portfolio is built with modern web technologies and follows industry best p
 - **Tailwind CSS** with custom design system for consistent styling
 - **Framer Motion** for smooth animations and micro-interactions
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -93,24 +93,24 @@ src/
 └── types/             # TypeScript type definitions
 ```
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### 1. NexuStore - E-commerce Platform
 - **Tech**: React, TypeScript, Tailwind CSS, shadcn/ui
 - **Features**: 50+ products, shopping cart, responsive design
 - **[Live Demo](https://nexustore-phi.vercel.app)** | **[GitHub](https://github.com/christianjeraldjutba/nexustore)**
 
-### 2. WeatherDash - Weather Dashboard
-- **Tech**: React, TypeScript, OpenWeatherMap API
-- **Features**: Real-time data, 5-day forecast, PWA capabilities
-- **[Live Demo](https://weather-dashboard-v1.vercel.app)** | **[GitHub](https://github.com/christianjeraldjutba/weatherdash)**
+### 2. Portfolio Website - Professional Showcase
+- **Tech**: React, TypeScript, Framer Motion, Tailwind CSS
+- **Features**: Dark theme, command palette, responsive design, email integration
+- **[Live Demo](https://cjjutba.site)** | **[GitHub](https://github.com/cjjutba/portfolio-showcase)**
 
 ### 3. TaskFlow - Task Management
 - **Tech**: React, TypeScript, Framer Motion
 - **Features**: Kanban boards, drag-and-drop, analytics
 - **[Live Demo](https://taskflow-web-app.vercel.app)** | **[GitHub](https://github.com/christianjeraldjutba/taskflow)**
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Background**: Deep black (#000000) with subtle gradients
@@ -128,7 +128,7 @@ src/
 - **Interactions**: Smooth hover and focus transitions
 - **Scroll**: Parallax effects and scroll-triggered animations
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Mobile**: 425px and below
 - **Tablet**: 768px - 1023px
@@ -136,7 +136,7 @@ src/
 - **Laptop Medium**: 1280px - 1439px
 - **Laptop Large**: 1440px and above
 
-## 🔧 Configuration
+## Configuration
 
 ### Technical Specifications
 - **Email Integration**: Contact form powered by EmailJS for reliable message delivery
@@ -144,7 +144,7 @@ src/
 - **Accessibility**: WCAG 2.1 AA compliant with proper semantic markup
 - **Browser Support**: Modern browsers with graceful degradation for older versions
 
-## 🚀 Deployment & Hosting
+## Deployment & Hosting
 
 This portfolio is professionally deployed and optimized for production environments. The site is hosted on a custom domain with SSL certification and global CDN distribution for optimal performance worldwide.
 
@@ -154,18 +154,18 @@ This portfolio is professionally deployed and optimized for production environme
 - **Global CDN**: Fast loading times across all geographic regions
 - **Automatic Deployments**: Seamless updates and continuous integration
 
-## 📈 Performance
+## Performance
 
 - **Lighthouse Score**: 95+ across all metrics
 - **Core Web Vitals**: Optimized for LCP, FID, and CLS
 - **Bundle Size**: Optimized with code splitting and tree shaking
 - **Image Optimization**: Lazy loading and modern formats
 
-## 💼 Professional Inquiries
+## Professional Inquiries
 
 This portfolio represents my professional work and technical expertise as a Frontend Developer. For business inquiries, collaboration opportunities, or technical discussions, please feel free to reach out through the contact methods below.
 
-## 📞 Contact
+## Contact
 
 - **Website**: [cjjutba.site](https://cjjutba.site)
 - **Email**: cjjutbaofficial@gmail.com
